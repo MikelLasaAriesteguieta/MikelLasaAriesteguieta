@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Mikel+Lasa+Ariesteguieta;Estudiante+de+Ingenier%C3%ADa+de+la+Salud;Python+%C2%B7+Sistemas+inteligentes+%C2%B7+Software+cl%C3%ADnico" alt="Mikel Lasa Ariesteguieta" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ubu-logo-dark.png" />
+  <img src="./assets/ubu-logo.png" alt="Universidad de Burgos" width="300" />
+</picture>
 
-**Estudiante de Ingeniería de la Salud · Universidad de Burgos**
+<h1>Mikel Lasa Ariesteguieta</h1>
+
+**Estudiante de Ingeniería de la Salud** · Python · Sistemas inteligentes · Software clínico
 
 <img src="https://komarev.com/ghpvc/?username=MikelLasaAriesteguieta&style=flat-square&color=0A66C2&label=Visitas" />
 <img src="https://img.shields.io/github/followers/MikelLasaAriesteguieta?style=flat-square&color=0A66C2&label=Seguidores" />
