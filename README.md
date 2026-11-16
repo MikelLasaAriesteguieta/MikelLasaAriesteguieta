@@ -1,19 +1,19 @@
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/ubu-logo-dark.png" />
-  <img src="./assets/ubu-logo.png" alt="Universidad de Burgos" width="300" />
+  <img src="./assets/ubu-logo.png" alt="Universidad de Burgos" width="190" align="right" />
 </picture>
 
 <h1>Mikel Lasa Ariesteguieta</h1>
 
-**Estudiante de Ingeniería de la Salud** · Python · Sistemas inteligentes · Software clínico
+**Estudiante de Ingeniería de la Salud · Universidad de Burgos**
+
+Python · Sistemas inteligentes · Software clínico
 
 <img src="https://komarev.com/ghpvc/?username=MikelLasaAriesteguieta&style=flat-square&color=0A66C2&label=Visitas" />
 <img src="https://img.shields.io/github/followers/MikelLasaAriesteguieta?style=flat-square&color=0A66C2&label=Seguidores" />
 <img src="https://img.shields.io/badge/Ubicación-Bizkaia,_España-555?style=flat-square" />
 
-</div>
+<br clear="right" />
 
 ---
 
