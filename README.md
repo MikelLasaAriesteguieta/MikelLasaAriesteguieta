@@ -70,8 +70,10 @@ Prácticas de la asignatura de fundamentos de datos: objetos y funciones en R, i
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MikelLasaAriesteguieta&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0A66C2&icon_color=0A66C2" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikelLasaAriesteguieta&layout=compact&hide_border=true&langs_count=6&title_color=0A66C2" />
+<img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/github/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=MikelLasaAriesteguieta&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&locale=es" />
 
@@ -82,14 +84,6 @@ Prácticas de la asignatura de fundamentos de datos: objetos y funciones en R, i
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MikelLasaAriesteguieta&hide_border=true&area=true&color=0A66C2&line=0A66C2&point=0A66C2&bg_color=ffffff&title_color=0A66C2" />
-
-</div>
-
-## Logros
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MikelLasaAriesteguieta&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
